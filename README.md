@@ -75,7 +75,9 @@ Implementação utilizando a função nativa do **NetworkX**, que é altamente o
 **Gráfico 1** — Comparação Interativa de Tempo de Execução (log-log)
 Mostra a variação do tempo médio em função do tamanho dos grafos.
 
-![Comparação de Tempo de Execução](comparacao_tempo.png)
+<p align="center">
+  <img src="graficos/comparacao_tempo.png" alt="Gráfico comparativo de tempo de execução" width="700">
+</p>
 
 📈 **Análise:**
 
