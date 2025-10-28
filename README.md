@@ -77,6 +77,7 @@ Mostra a variação do tempo médio em função do tamanho dos grafos.
 
 <img width="1478" height="444" alt="image" src="https://github.com/user-attachments/assets/e21a42fd-8505-48b8-be8f-484bf1bd2c57" />
 
+
 📈 **Análise:**
 
 O gráfico acima mostra que a versão **Classic** apresenta um crescimento exponencial no tempo conforme o tamanho do grafo aumenta, devido à sua complexidade quadrática.  
@@ -88,6 +89,7 @@ Já as versões com **Min-Heap** e **NetworkX** mantiveram desempenho semelhante
 Mostra o consumo energético estimado para cada algoritmo conforme o tamanho do grafo aumenta.
 
 <img width="1478" height="444" alt="image" src="https://github.com/user-attachments/assets/51fe1b3a-ed86-48aa-92a9-597861d5f701" />
+
 
 📉 **Análise:**  
 
