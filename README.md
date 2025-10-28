@@ -75,9 +75,7 @@ Implementação utilizando a função nativa do **NetworkX**, que é altamente o
 **Gráfico 1** — Comparação Interativa de Tempo de Execução (log-log)
 Mostra a variação do tempo médio em função do tamanho dos grafos.
 
-<p align="center">
-  <img src="graficos/comparacao_tempo.png" alt="Gráfico comparativo de tempo de execução" width="700">
-</p>
+<img width="1478" height="444" alt="image" src="https://github.com/user-attachments/assets/e21a42fd-8505-48b8-be8f-484bf1bd2c57" />
 
 📈 **Análise:**
 
@@ -89,7 +87,7 @@ Já as versões com **Min-Heap** e **NetworkX** mantiveram desempenho semelhante
 **Gráfico 2** — Comparação Interativa de Emissão de CO₂ (log-log)
 Mostra o consumo energético estimado para cada algoritmo conforme o tamanho do grafo aumenta.
 
-![Comparação de Emissão de CO₂](graficos/comparacao_co2.png)
+<img width="1478" height="444" alt="image" src="https://github.com/user-attachments/assets/51fe1b3a-ed86-48aa-92a9-597861d5f701" />
 
 📉 **Análise:**  
 
