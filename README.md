@@ -88,7 +88,7 @@ Já as versões com **Min-Heap** e **NetworkX** mantiveram desempenho semelhante
 **Gráfico 2** — Comparação Interativa de Emissão de CO₂ (log-log)
 Mostra o consumo energético estimado para cada algoritmo conforme o tamanho do grafo aumenta.
 
-<img width="1478" height="444" alt="image" src="https://github.com/user-attachments/assets/51fe1b3a-ed86-48aa-92a9-597861d5f701" />
+<img width="1474" height="448" alt="image" src="https://github.com/user-attachments/assets/cdfa6fcf-286c-4dd6-a1e5-d1b28b95453c" />
 
 
 📉 **Análise:**  
